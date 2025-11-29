@@ -1,0 +1,17 @@
+{
+  "name": "answers",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "shen",
+  "type": "commonjs",
+  "main": "01-intro.js",
+  "scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1",
+  "dev": "nodemon prompter.js",
+  "start": "node prompter.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
